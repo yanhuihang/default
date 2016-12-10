@@ -1,0 +1,5 @@
+== Get Missing Firmware Error While Install Debian ==
+
+1. Download the missing firmware to your U-disk
+2. Insert the U-disk to the computer running install session
+3. Mount the U-disk and copy the firmware to /lib/firmware
